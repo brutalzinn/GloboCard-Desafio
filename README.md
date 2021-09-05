@@ -1,5 +1,7 @@
 # Desafio Globo - Api GloboCard, Cli GloboCard e Interface Globo Card
 
+## Esse é um resumo com todos os repositórios do projeto GloboCard juntos.
+
 > Todas as senhas expostas em variáveis de ambiente possuem tempo de validade.
 
 ## Api GloboCard
